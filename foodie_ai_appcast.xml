@@ -1,0 +1,18 @@
+﻿<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>FoodieAI app - Appcast</title>
+<item>
+<title>Version 1.0.5</title>
+<description>Force update implementation</description>
+<pubDate>Mon, 18 Sep 2023 12:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.foodieai" sparkle:version="1.0.5" sparkle:os="android"/>
+</item>
+<item>
+<title>Version 1.0.1</title>
+<description>New important update</description>
+<pubDate>Thu, 21 Sep 2023 12:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/be/app/foodieai/id6446807539" sparkle:version="1.0.1" sparkle:os="ios"/>
+<!--             <enclosure url="https://apps.apple.com/in/app/facebook/id284882215" sparkle:version="1.0.0" sparkle:os="ios"/> -->
+</item>
+</channel>
+</rss>
